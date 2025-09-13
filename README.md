@@ -16,6 +16,6 @@
 - **Other**: Multi-threading, networking, ECS  
 
 ## 📌 Current projects:
-- [Strype](https://github.com/JackJackStudios/Strype) — a C++ multi-platform game engine.
-- [AGI](https://github.com/JackJackStudios/agi) — a lightweight, render-agnostic graphics library.  
-- [Bricks](https://github.com/JackKnox/Bricks) — Custom data-driven UI system, dockable UI for games.  
+- [**Strype**](https://github.com/JackJackStudios/Strype) — a C++ multi-platform game engine.
+- [**AGI**](https://github.com/JackJackStudios/agi) — a lightweight, render-agnostic graphics library.  
+- [**Bricks**](https://github.com/JackKnox/Bricks) — Custom data-driven UI system, dockable UI for games.  
