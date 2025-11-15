@@ -18,4 +18,3 @@
 - [**Strype**](https://github.com/JackJackStudios/Strype) — A C++ multi-platform game engine.
 - [**Boxel**](https://github.com/JackKnox/Boxel) — A C voxel path-tracer with realistic GI.
 - [**AGI**](https://github.com/JackJackStudios/agi) — A lightweight, render-agnostic GPU library.  
-- [**Bricks**](https://github.com/JackKnox/Bricks) — Custom data-driven UI system, dockable UI for games.  
