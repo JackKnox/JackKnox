@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Jack
 
-🎯 **Game Engine Developer | Systems Programmer | Open Source Enthusiast**
+🎯 **Game Engine Developer | Graphics Programmer | Open Source Enthusiast**
 
 ## 🚀 About me:
 - 💻 Passionate about **game engine development** (C++ / OpenGL / Vulkan).  
-- 🛠 Currently building a **render-agnostic game engine** that supports OpenGL, Vulkan, and multi-threading.
+- 🛠 Currently building a **voxel path-tracer** that supports Vulkan, GI, and multi-threading.
 - 🖥 Exploring **low-level graphics** and **cross-platform development** (Windows, macOS, Linux, Raspberry Pi).    
-- 🎮 Interested in **tools for game developers**.  
 
 ## 🧑‍💻 Used languages/technologies:
-- **Languages**: C++, C, Rust, Python, Java, SQL  
+- **Languages**: C++, C, Rust, Python, Java  
 - **Graphics**: OpenGL, Vulkan, GLFW, ImGui  
 - **Audio**: OpenAL, libsndfile, miniaudio  
 - **Tools & SDKs**: CMake, Premake5, Aseprite, Playdate SDK, Raspberry Pi  
 - **Other**: Multi-threading, networking, ECS  
 
 ## 📌 Current projects:
-- [**Strype**](https://github.com/JackJackStudios/Strype) — a C++ multi-platform game engine.
-- [**AGI**](https://github.com/JackJackStudios/agi) — a lightweight, render-agnostic graphics library.  
+- [**Strype**](https://github.com/JackJackStudios/Strype) — A C++ multi-platform game engine.
+- [**Boxel**](https://github.com/JackKnox/Boxel) — A C voxel path-tracer with realistic GI.
+- [**AGI**](https://github.com/JackJackStudios/agi) — A lightweight, render-agnostic GPU library.  
 - [**Bricks**](https://github.com/JackKnox/Bricks) — Custom data-driven UI system, dockable UI for games.  
