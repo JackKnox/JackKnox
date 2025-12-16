@@ -11,8 +11,8 @@
 - **Languages**: C, C++, GLSL, Rust, Python, Java  
 - **Graphics**: OpenGL, Vulkan, GLFW, ImGui  
 - **Audio**: OpenAL, libsndfile, miniaudio  
-- **Tools & SDKs**: CMake, Premake5, Playdate SDK, Raspberry Pi, Steamworks, freetype
-- **Game Engines**: Gamemaker, Godot, SDL2, Raylib
+- **Tools & SDKs**: CMake, Premake5, Playdate SDK, Raspberry Pi, Steamworks
+- **Game Engines**: Gamemaker, Godot
 - **Other**: Multi-threading, networking, ECS
 
 ## 📌 Current projects:
