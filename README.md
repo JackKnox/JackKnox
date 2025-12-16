@@ -8,7 +8,7 @@
 - 🖥 Exploring **low-level graphics** and **cross-platform development** (Windows, macOS, Linux, Raspberry Pi).    
 
 ## 🧑‍💻 Used languages/technologies:
-- **Languages**: C, C++, GLSL, Rust, Python, Java  
+- **Languages**: C, C++, Rust, Python, Java  
 - **Graphics**: OpenGL, Vulkan, GLFW, ImGui  
 - **Audio**: OpenAL, libsndfile, miniaudio  
 - **Tools & SDKs**: CMake, Premake5, Playdate SDK, Raspberry Pi, Steamworks
