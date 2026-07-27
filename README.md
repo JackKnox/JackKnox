@@ -11,9 +11,10 @@
 - **Languages**: C, C++, Rust, Python, Java  
 - **Graphics**: OpenGL, Vulkan, GLFW, ImGui  
 - **Tools & SDKs**: CMake, Premake5, Raspberry Pi, Steamworks
-- **Game Engines**: Gamemaker, Godot, Raylib
+- **Game Engines**: Gamemaker, Godot, Pygame
 - **Other**: Multi-threading, networking, ECS
 
-## 📌 Current projects:
+## 📌 Cool projects:
 - [**Strype**](https://github.com/JackKnox/Strype) — A C++ multi-platform game engine.
 - [**Ember**](https://github.com/JackKnox/Ember) — A C open source abstraction for all things operating systems.
+- [**Car-Game**](https://github.com/JackKnox/CS50-Final) - A simple car racing game made in Pygame.
