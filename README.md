@@ -20,6 +20,6 @@
 - [**Car-Game**](https://github.com/JackKnox/CS50-Final) - A simple car racing game made in Pygame.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JackKnox&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackKnox&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JackKnox&show_icons=true&theme=holi&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackKnox&layout=compact&theme=holi&hide_border=true" alt="Top languages">
 </p>
